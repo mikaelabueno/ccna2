@@ -26,9 +26,9 @@ tracert www.x-art.com
 
 Q2: Private IP address are IP give to connect
     to local network.
-   big/large:  10.0.0.0/8 -> 16,777,214 ip address.
+   big/large:  10.0.0.0/8 -> 16,777,214 ip address. (big companies)
   
-   medium:    172.16.0.0/16 -> 64,534 ip address
+   medium:    172.16.0.0/16 -> 64,534 ip address (VPN)
 
    home:   192.168.0-254.0/24 -> 254 ip address
 
