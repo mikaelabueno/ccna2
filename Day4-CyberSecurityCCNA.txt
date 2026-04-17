@@ -610,7 +610,8 @@ www.sti.edu.ph:      vs     www.dlsu.edu.ph:
 @EDGE:
 config t
 no access-list 8
-access-list 8 permit any
+access-list 8 permit host 192.168.103.21
+access-list 8 permit host 192.168.103.22
 Int Gi 3
  ip nat Inside
 Int gi 1
